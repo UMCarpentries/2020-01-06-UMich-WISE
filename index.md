@@ -196,7 +196,16 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
+<p align="center">
+  <em>
+    For more information on what we teach and why,
+    please see our paper
+    "<a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745">Best Practices for Scientific Computing</a>".
+  </em>
+</p>
+
 <hr/>
+
 
 {% comment %}
 SURVEYS - DO NOT EDIT SURVEY LINKS
