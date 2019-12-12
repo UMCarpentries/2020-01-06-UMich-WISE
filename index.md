@@ -81,6 +81,8 @@ the pitch.
 {% include lc/intro.html %}
 {% endif %}
 
+<h3 id="details">Details</h3>
+
 {% comment %}
 AUDIENCE
 
