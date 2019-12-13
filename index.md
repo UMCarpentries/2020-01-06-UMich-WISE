@@ -46,6 +46,19 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 {% endunless %}
 {% endif %}
 
+
+<p id="registration" align="center">
+  <strong>
+    <font size="36">
+    <a href="https://ttc.iss.lsa.umich.edu/ttc/sessions/software-carpentry-workshop-wise-shell-r-git/" target="_blank">Click Here to Register</a>
+    </font>
+  </strong>
+</p>
+
+<p align="center">
+  If you do not have a current University of Michigan account, please visit <a href="https://friend.weblogin.umich.edu/friend/">this site</a> to create a Friend account before attempting to register.
+ </p>
+
 {% comment %}
 EVENTBRITE
 
