@@ -15,6 +15,7 @@ helper: ["Sarah Tomkovich", "Emily Benedict", "Lisa Abernathy Close", "Catherine
 email: ["sovacool@umich.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2020-01-06-UMich-WISE             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+material: The Unix Shell, R for Reproducibile Scientific Analysis, Version Control with Git
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
